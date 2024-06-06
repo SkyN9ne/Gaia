@@ -11,7 +11,7 @@ except (OSError, IOError):
     description = ''
 
 # dependencies
-deps = ['tornado >= 2.4.1, < 3.0',
+deps = ['tornado >= 2.4.1, < 7.0',
         'mozlog >= 2.5',
         'mozprofile >= 0.21',
         'mozrunner >= 5.15']
