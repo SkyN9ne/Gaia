@@ -12,7 +12,7 @@
   ],
 
   "dependencies": {
-    "debug": "2.2.0",
+    "debug": "2.6.9",
     "empty-port": "0.0.x"
   }
 }

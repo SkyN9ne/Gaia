@@ -18,7 +18,7 @@
   "homepage": "https://github.com/wilsonpage/poplar",
 
   "devDependencies": {
-    "karma": "^0.12.31",
+    "karma": "^6.4.4",
     "karma-firefox-launcher": "^0.1.4",
     "karma-chrome-launcher": "^0.1.4",
     "karma-mocha": "^0.1.10",

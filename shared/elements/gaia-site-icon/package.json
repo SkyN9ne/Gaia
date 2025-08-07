@@ -21,7 +21,7 @@
     "url": "git@github.com:gaia-components/gaia-site-icon.git"
   },
   "devDependencies": {
-    "karma": "^0.12.37",
+    "karma": "^6.4.4",
     "karma-firefox-launcher": "^0.1.6",
     "karma-mocha": "^0.2.0",
     "karma-sinon-chai": "^1.0.0",

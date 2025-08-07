@@ -49,8 +49,8 @@
   "devDependencies": {
     "jshint": "~2.8.0",
     "node-static": "~0.7.1",
-    "mustache": "~1.1.0",
-    "requirejs": "2.1.x",
+    "mustache": "~4.2.0",
+    "requirejs": "2.3.x",
     "benchmark": "1.0.0"
   }
 }
