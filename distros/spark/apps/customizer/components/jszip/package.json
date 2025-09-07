@@ -35,7 +35,7 @@
   ],
   "devDependencies": {
     "qunit": "~0.6.3",
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "grunt-cli": "~0.1.9",
     "grunt-saucelabs": "~7.0.0",
     "grunt-contrib-connect": "~0.7.1",

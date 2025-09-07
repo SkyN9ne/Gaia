@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "The Gaia Team <dev-gaia@lists.mozilla.org>",
   "dependencies": {
-    "lodash": "^3.0.0"
+    "lodash": "^4.17.21"
   },
   "webide": {
     "prepackage": {

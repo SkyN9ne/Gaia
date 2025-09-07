@@ -22,7 +22,7 @@
     "escape-string-regexp": "^1.0.2",
     "intersect": "~0.0.3",
     "indent-string": "1.2.1",
-    "lodash": "3.6.0",
+    "lodash": "4.17.21",
     "marionette-js-logger": "file:../../plugins/marionette-js-logger",
     "marionette-profile-builder": "file:../marionette-profile-builder",
     "mocha": "^2",
